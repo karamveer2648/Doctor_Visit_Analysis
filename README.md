@@ -23,3 +23,5 @@ This project uses Python and requires the following libraries:
 To install the required libraries, run:
 ```bash
 pip install pandas numpy matplotlib seaborn
+
+## Getting Started
